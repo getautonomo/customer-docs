@@ -2,7 +2,7 @@
 
 ## Tonomo Privacy Policy
 
-**Effective Date:** \[Current Date]
+**Effective Date:** July 26, 2024
 
 ### 1. Introduction
 
