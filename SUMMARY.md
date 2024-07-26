@@ -89,6 +89,7 @@
 ## Frequently Asked Questions
 
 * [FAQ](frequently-asked-questions/faq.md)
+* [Privacy Policy](frequently-asked-questions/privacy-policy.md)
 
 ## Single Property Websites
 
