@@ -76,6 +76,7 @@
   * [Create Calendar Event After Postponing or Cancelling](scheduling/changing-scheduling-details/create-calendar-event-after-postponing-or-cancelling.md)
 * [Calendar/Tonomo Mismatch](scheduling/calendar-tonomo-mismatch.md)
 * [Twilight Shoots](scheduling/twilight-shoots.md)
+* [Embed Booking Flow](scheduling/embed-booking-flow.md)
 
 ## Agent Communication
 
