@@ -117,7 +117,7 @@ _Once the agent uses their credit card, it will automatically be saved to their 
 
 You may enter information that displays a Booking Flow like a logo or paragraph description. The end result would look like this for example:&#x20;
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 Like our other editing fields, you have a lot of rich text options like video, table, and embeds&#x20;
 

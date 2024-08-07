@@ -102,3 +102,10 @@ Please make sure you are signed in to the correct Dropbox account before clickin
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## How do I import users to Tonomo?
+
+If you need help importing users, please reach out to Tonomo Support on Slack. Just make sure you have a CSV file ready with your list of users.
+
