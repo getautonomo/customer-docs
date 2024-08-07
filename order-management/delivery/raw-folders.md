@@ -19,3 +19,7 @@ Once enabled, all future orders that have their folders created will generated r
     * Photographer Name (Name of photographer assigned to the order when the folder structure was created. If there are two, we pick the first alphabetically)
       * Scheduled Date of the Shoot
         * 1 Folder for each service that has a [Service Type](https://docs.getautonomo.com/services-and-packages/services#service-type)
+
+{% hint style="warning" %}
+Note: If you are **not** using the "Use integrated booking" feature for your booking flow the events are coming as time requests and not finalized dates, therefore, the raw folder will not be created it will require you to manually create an event in the scheduler to create the folder.&#x20;
+{% endhint %}
