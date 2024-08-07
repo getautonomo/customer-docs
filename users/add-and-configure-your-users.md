@@ -4,7 +4,7 @@
 
 Each of your employees will have a user account that allows them to access the Tonomo system securely to manage their orders. At this time, Tonomo doesn't support mass invites to multiple users, so they will need to create their account one at a time, complete a little bit of setup on their end, and then you or another admin will need to assign them permissions. Get started by navigating to **User Management** on the left side of the screen.
 
-![](<../.gitbook/assets/Configure - Calendar.png>)
+<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 But first, a word about the different types of Users we support.
 
@@ -12,11 +12,13 @@ But first, a word about the different types of Users we support.
 
 Every email login on the portal is called a **User**, but you can promote some of your users to **Staff**. **Staff** are the photographers, PMs, and other employees who need to process orders. You can see **Staff** by clicking the **Staff** tab shown in the photo below.
 
-![](<../.gitbook/assets/Users 1.png>)
+<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+
+
 
 From here, click on your Staff to manage their User settings.
 
-<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 Under **Permissions**, there are three options, **Staff**, **Admin**, and **Contractor**.
 
@@ -60,7 +62,7 @@ If you are an employee reading this guide, you cannot do this step yourself. Not
 
 Now that the employee is a User in your portal, promote them to Staff so they can see and manage orders. Navigate back to **User Management** and click the **All** tab. Next click on one of your Users. You will set them to Staff under the Permission section.
 
-![](<../.gitbook/assets/Users 3.png>)
+<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 Once done, the **Role** field will appear. Set their role in your company.
 
@@ -72,27 +74,27 @@ In order to set a person to be a Project Manager for an Order, they must be a **
 
 All Staff needs to have their [calendar connected](../scheduling/calendar-integration.md#connecting-user-accounts) to Tonomo so we can manage scheduling for them. Now that the employee is **Staff**, they have a new setting in _their_ User profile. Under the **Staff Settings** in the top right corner, click the **Connect Calendar Account** button.
 
-![](<../.gitbook/assets/Users 4.png>)
+<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The following steps will be for connecting a Google calendar, but any other calendar provider should be similar. If you're having any trouble, please let us know!
 {% endhint %}
 
-Select the Google account you want to connect to Tonomo.
+Sign in with the Google email address that is registered to your Tonomo account.
 
-![](<../.gitbook/assets/10 Connect account.png>)
+<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 You may get a warning about an unverified app. Click **Show Advanced** and then **Go to nylas.com (unsafe)**.
 
 ![](<../.gitbook/assets/11 Connect Account.png>)
 
-Click **Allow**
+Click **Continue**
 
-![](<../.gitbook/assets/12 Connect Account.png>)
+<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
-Ensure the 4th box is checked and click **Allow** again.
+Ensure that you are giving Nylas access by checking the _"See, edit, share, and permanently delete all the calendars you can access using Google Calendar."_ box and click **Allow** again.
 
-![](<../.gitbook/assets/13 Connect Account.png>)
+<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Repeat these steps for each User. In the future, we'll have an option for adding Users as a batch, so stay tuned!
