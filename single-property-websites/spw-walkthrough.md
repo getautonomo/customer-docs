@@ -1,40 +1,52 @@
 # SPW Walkthrough
 
+
+
 {% embed url="https://www.loom.com/share/8bba6361c8534f149faae5e1619df134" %}
 
 After enabling the listing website, we automatically pull all media into the website, and it will be published automatically.
 
-<figure><img src="../.gitbook/assets/Website.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
 After clicking the **Admin panel** under the **Website** section you will be redirected to the **property dashboard**, allowing you to tailor specific details related to the property.
 
-<figure><img src="../.gitbook/assets/SPW1.png" alt=""><figcaption></figcaption></figure>
-
 ### Details
 
 Within the "**Details**" tab, you have the capability to edit and add information to the property. This applies not only to the address but also to all essential details required for effective advertisement on your property website.
 
-<figure><img src="../.gitbook/assets/details.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
 ### Photo Gallery
 
 Upon selecting "**Sync Delivery Files**" in the **Orders Management** interface, all photos will be displayed in this section. Furthermore, users will have the option to add and manage specific photos for showcasing on the listing website.
 
-<figure><img src="../.gitbook/assets/photo-gallery.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+
+### Virtual Tour
+
+Create a photo slideshow that you can enable as a cover on the Listing website. You have an option to pull photos from Photo Gallery or upload new photos to add to the Slideshow.
+
+<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+
+Please see this video explaining how **Virtual Tour** works.
+
+{% embed url="https://www.loom.com/share/d9294f823c8143faa8e661d9b68d21d3?sid=489a2ce1-4a7d-4bdb-80e1-5d7fb02c9fc7" %}
 
 ### Videos
 
 Upon selecting "**Sync Delivery Files**" in the **Orders Management** interface, all videos will be displayed in this section. Furthermore, users will have the option to add and manage specific videos for showcasing on the listing website.
 
-<figure><img src="../.gitbook/assets/videos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### 3D Tours
 
 Upon selecting the "Add 3D Tour" button, users gain the ability to input their virtual tour URL and modify the title.
 
-<figure><img src="../.gitbook/assets/3d-tour.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
 ### Floorplans
 
@@ -46,7 +58,7 @@ Upon selecting the "Add 3D Tour" button, users gain the ability to input their v
 
 This section provides users with the capability to upload documents for sharing with visitors. Additionally, users have the option to conceal the document from public view, ensuring it remains exclusively accessible for their personal viewing.
 
-<figure><img src="../.gitbook/assets/documents.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
 ## Settings
 
@@ -60,20 +72,20 @@ In this section, you will be able to see all the lists of available domains that
 
 Within the "Admin panel" section, a dedicated "**Add custom domain**" button has been provided. By clicking this button, users can effortlessly add any desired domain for a listing, which is typically $14.99 per year. While we offer a suggestion based on the listing's address, you have the flexibility to modify this recommendation.
 
-<figure><img src="../.gitbook/assets/Domains (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, any domain purchased outside of tonomo can still be added as long as the DNS settings for the custom domain are set to the indicated record below.
 
-<figure><img src="../.gitbook/assets/Domains2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 ### Listings Agents
 
 Manage your agent by adding or removing it in this section. This will also allow you to change the details of the agent, including the profile photo, team logo, full name, and more.
 
-<figure><img src="../.gitbook/assets/listing-agents.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 ### Widgets
 
 Add JavaScript snippets to display on the client's listing portal.
 
-<figure><img src="../.gitbook/assets/Widget.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>

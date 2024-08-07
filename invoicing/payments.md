@@ -59,7 +59,7 @@ Here are the steps on how to make a manual payment:
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/image (179).png" alt="" width="363"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (179) (1).png" alt="" width="363"><figcaption></figcaption></figure>
 
     </div>
 4.  Select **Payment details**\
@@ -67,20 +67,20 @@ Here are the steps on how to make a manual payment:
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/image (183).png" alt="" width="357"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (183) (1).png" alt="" width="357"><figcaption></figcaption></figure>
 
     </div>
 5.  Select **Make Payment** and select **Cash**
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/image (184).png" alt="" width="484"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (184) (1).png" alt="" width="484"><figcaption></figcaption></figure>
 
     </div>
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/image (186).png" alt="" width="488"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (186) (1).png" alt="" width="488"><figcaption></figcaption></figure>
 
     </div>
 6. Complete the details and click **Save**
