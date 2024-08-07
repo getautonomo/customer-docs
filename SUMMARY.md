@@ -99,6 +99,7 @@
 
 ## Integrations
 
+* [Tonomo Video Integration](integrations/tonomo-video-integration.md)
 * [Zapier](integrations/zapier.md)
 * [Creating Orders Through Webhooks](integrations/creating-orders-through-webhooks.md)
 * [Slack](integrations/slack.md)
