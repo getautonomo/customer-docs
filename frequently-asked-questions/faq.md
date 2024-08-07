@@ -92,3 +92,13 @@ For more details, please see this: [https://knowledge.hubspot.com/automatically-
 {% hint style="info" %}
 You can also view the documentation when your calendar invite is being marked as spam.
 {% endhint %}
+
+## How do I reconnect/change my Dropbox account?
+
+This can be easily done on the portal. Head over to **Configure Booking > General**, navigate through Dropbox, and click "Reconnect".
+
+{% hint style="warning" %}
+Please make sure you are signed in to the correct Dropbox account before clicking "Reconnect".
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
