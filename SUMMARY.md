@@ -17,10 +17,6 @@
 * [Getting Agents to Book Themselves](users/getting-agents-to-book-themselves.md)
 * [Order Dashboard](users/order-dashboard.md)
 
-***
-
-* [Photographer Schedule](photographer-schedule.md)
-
 ## Services and Packages
 
 * [Displaying your Pricing](services-and-packages/displaying-your-pricing.md)
@@ -74,9 +70,18 @@
   * [Add New Appointment to Existing Appointment](scheduling/changing-scheduling-details/add-new-appointment-to-existing-appointment.md)
   * [Change Calendar Description After Booking](scheduling/changing-scheduling-details/change-calendar-description-after-booking.md)
   * [Create Calendar Event After Postponing or Cancelling](scheduling/changing-scheduling-details/create-calendar-event-after-postponing-or-cancelling.md)
-* [Calendar/Tonomo Mismatch](scheduling/calendar-tonomo-mismatch.md)
 * [Twilight Shoots](scheduling/twilight-shoots.md)
 * [Embed Booking Flow](scheduling/embed-booking-flow.md)
+* [Photographer Schedule](scheduling/photographer-schedule.md)
+* [Calendar/Tonomo Mismatch](scheduling/calendar-tonomo-mismatch.md)
+
+## Reporting
+
+* [Orders Reporting](reporting/orders-reporting.md)
+* [Contractor Reporting](reporting/contractor-reporting.md)
+* [Domains Reporting](reporting/domains-reporting.md)
+* [Video Render Reporting](reporting/video-render-reporting.md)
+* [Missed Scheduling](reporting/missed-scheduling.md)
 
 ## Agent Communication
 
