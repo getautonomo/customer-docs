@@ -31,7 +31,6 @@
 
 ## Invoicing
 
-* [Page](invoicing/page.md)
 * [Sales](invoicing/sales.md)
 * [Payments](invoicing/payments.md)
 
