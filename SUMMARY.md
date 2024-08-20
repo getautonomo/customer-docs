@@ -96,7 +96,6 @@
 ## Frequently Asked Questions
 
 * [FAQ](frequently-asked-questions/faq.md)
-* [Privacy Policy](frequently-asked-questions/privacy-policy.md)
 
 ## Single Property Websites
 
@@ -109,3 +108,7 @@
 * [Zapier](integrations/zapier.md)
 * [Creating Orders Through Webhooks](integrations/creating-orders-through-webhooks.md)
 * [Slack](integrations/slack.md)
+
+## Tonomo Privacy Policy
+
+* [Privacy Policy](tonomo-privacy-policy/privacy-policy.md)
