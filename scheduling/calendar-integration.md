@@ -5,7 +5,7 @@
 Tonomo has a calendar integration suite built-in so that you can manage your bookings, event details, and view the photographer's availability. Setting up the calendar integration also enables other cool features like Integrated Booking so that your agents can book their service directly from the booking flow. We will configure this later if needed. But for now, let's get Tonomo talking with your calendar.
 
 {% hint style="info" %}
-Our calendar can integrate with all major calendar providers like Google, Exchange, Office, and many more. If you have any concerns about if your calendar provider is covered, reach out to your Tonomo Onboarder!
+Currently, our calendar integration is only available with Google Calendar. If you have any concerns about other calendar providers or need assistance, please reach out to Tonomo Customer Support through your private Slack channel to your Tonomo Onboarder!
 {% endhint %}
 
 When you integrate a calendar with Tonomo, that calendar will "own" all of the events Tonomo creates. It's going to be the account that can edit or delete calendar events in your calendar provider. We recommend that the account you choose is generic and not tied to a specific person.
