@@ -55,6 +55,7 @@
 ## Scheduling
 
 * [Calendar Integration](scheduling/calendar-integration.md)
+* [New Calendar Integration](scheduling/calendar-integration-1.md)
 * [Scheduling Configuration](scheduling/scheduling-configuration/README.md)
   * [Integrated Booking](scheduling/scheduling-configuration/integrated-booking.md)
   * [Photographer Availability](scheduling/scheduling-configuration/photographer-availability.md)
