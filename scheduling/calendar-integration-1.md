@@ -1,49 +1,94 @@
----
-hidden: true
----
+# How to Set Up the Calendar Integration
 
-# New Calendar Integration
+Tonomo offers a seamless calendar integration suite that consolidates your bookings, event details, and photographer availability in one place. By setting up this integration, you unlock features like Integrated Booking, which allows agents to book services directly through the booking flow. We will walk you through connecting Tonomo to your primary calendar.
 
-## Connecting a Primary Account
-
-Tonomo has a built-in calendar integration suite that allows you to manage bookings, event details, and view photographer availability all in one place. Setting up calendar integration also unlocks additional features like Integrated Booking, enabling agents to book services directly from the booking flow. We'll configure this later if needed, but for now, let's focus on getting Tonomo connected with your primary calendar.
+{% embed url="https://www.loom.com/share/d97a23ea0fdb468e94999f34db300be2?sid=ef39b50c-9842-4328-9cf6-2c3c6130707a" %}
 
 {% hint style="info" %}
-Currently, our calendar integration is only available with Google Calendar. If you have any concerns about other calendar providers or need assistance, please reach out to Tonomo Customer Support through your private Slack channel to your Tonomo Onboarder!
+At this time, Tonomo integrates exclusively with Google Calendar. If you use another calendar provider or need assistance, please contact the **Tonomo Customer Support Team** via your private Slack channel or reach out to your **Tonomo Onboarder**.
 {% endhint %}
 
-When you integrate a main calendar with Tonomo, that calendar will "own" all the events Tonomo creates. This account will have the ability to edit or delete calendar events within your calendar provider. We recommend using a generic account, like info@yourcompany.com or booking@yourcompany.com, instead of one tied to a specific person. This avoids potential issues if the account holder loses access or if someone else needs to make changes to events in an emergency.
+## **Benefits of the New Integration**
 
-Whichever account you're going to use, you may **Connect primary calendar account** under the **Org Settings > Team**.
+The new calendar system offers several key advantages over the previous integration:
 
-<figure><img src="../.gitbook/assets/team.png" alt=""><figcaption></figcaption></figure>
+* **Increased Efficiency**: The new setup is streamlined, reducing the likelihood of scheduling errors.
+* **Support for Multiple Calendars**: Photographers can now connect multiple calendars for greater flexibility in managing availability.
+* **Simplified Setup**: Tonomo only needs to connect to the main calendar. Once photographers share their calendars with the primary account, Tonomo can seamlessly integrate them.
 
-If you have a generic email account like info@yourcompany.com, use that. If you do not, use a senior person's account, choose someone that will be with the company for a while.
+## **How to Upgrade from the Old Calendar Integration**
 
-### Less Secure Apps
+Upgrading to the new calendar integration is quick and can be done via Slack. Follow these steps:
 
-When connecting an account for the first time, you may receive a warning that you are attempting to connect a "Less Secure App" from Google. If this occurs, follow the steps in your [admin console.](https://myaccount.google.com/lesssecureapps)
+1.  **Reconnect the Main Calendar** \
+    Go to **Org Settings** > **Team**, then reconnect your main calendar.
 
-## Connecting User Accounts
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+2. **Update Your Calendar**
+   * Navigate to **Configure Booking** > **Scheduling**.
+   *   Locate your profile and click the pencil icon under the **Calendar Name** column.
 
-{% embed url="https://www.loom.com/share/d97a23ea0fdb468e94999f34db300be2?sid=9febcff6-bce0-490b-aad8-76447edf882a" %}
+       <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+   *   Select their calendar from the dropdown list.
 
-With our upgraded integration, you'll be able to onboard and set up your photographers quickly on Tonomo. To view availability and manage events for your staff, an Admin will need to set up a new photographer profile for each member.
+       <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+3. **Inform the Support Team** \
+   Let the **Tonomo customer support team** know you’ve completed the setup.
 
-**Step 1:** The photographer will need to share their Google calendar(s) with the primary calendar connected to Tonomo, granting "Make changes to events" permission. This allows Tonomo to view external event details and measure travel time from the booking address to any external event location if included.
+## **Connecting Your Primary Calendar** <a href="#connecting-your-primary-calendar" id="connecting-your-primary-calendar"></a>
 
-For detailed instructions on sharing calendars and understanding the different permission levels, please refer to this [Google Calendar documentation](https://support.google.com/calendar/answer/37082?hl=en\&authuser=2#zippy=%2Cunderstand-permission-settings-for-shared-calendars).
+When you integrate your main calendar with Tonomo, that calendar will "own" all events created within the system. The connected account will be able to edit or delete calendar events directly.
 
-<figure><img src="../.gitbook/assets/calendar (1).png" alt=""><figcaption></figcaption></figure>
+**Recommendation**: Use a generic email account (e.g., info@yourcompany.com or booking@yourcompany.com) to avoid issues if the account holder loses access, or if an emergency requires changes to events.
 
-**Step 2:** After accepting the calendar invite, you can set up the photographer under **Configure Booking > Scheduling**.
+**To connect your primary calendar:**
 
-* **Enter User Name or Email**: Only users with Admin, Staff, and Contractor access will appear in this section as a dropdown. You just need to select the photographer from this list.
-* **Select Photographer's Primary Calendar**: A dropdown of photographers' calendars will appear. You need to select the correct Google Calendar for the photographer. If their email is not listed, it means they haven’t shared their Google Calendar with the primary calendar. Please refer to Step 1 for details on sharing.
-* **Additional Calendars**: Tonomo can also reference multiple calendars to determine the availability of a single Photographer. In this section, you can add as many additional calendars as needed for each photographer
+1. Go to **Org Settings** > **Team**.
+2.  Follow the prompts to link your account.\
 
-<figure><img src="../.gitbook/assets/photographer2.png" alt=""><figcaption></figcaption></figure>
 
-**Step 3:** After setting up a new photographer, simply toggle on **Enabled** and click **Save Changes**.
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/photographer3.png" alt=""><figcaption></figcaption></figure>
+**Important Notes:**
+
+* If you’re using a generic email account (e.g., info@yourcompany.com), use that for the integration. If not, choose a senior staff member’s account who will likely stay with the company long-term.
+* **Less Secure Apps Warning**: If you see a warning about connecting a "Less Secure App" from Google, follow the steps in your Google Admin Console to resolve it.
+
+## **Connecting Photographer Accounts** <a href="#connecting-photographer-accounts" id="connecting-photographer-accounts"></a>
+
+With our upgraded integration, adding photographers to Tonomo is quick and easy. An Admin must set up a photographer profile for each member in order to view availability and manage events for your team.
+
+**Step 1: Share Google Calendar with Primary Account**
+
+Each photographer needs to share their Google calendar(s) with the primary calendar connected to Tonomo. They must grant "Make changes to events" permission to allow Tonomo to view event details and calculate travel time.
+
+For instructions on sharing calendars and understanding permission levels, refer to the [Google Calendar documentation](https://support.google.com/calendar/answer/37082?hl=en\&authuser=2#zippy=%2Cunderstand-permission-settings-for-shared-calendars).\
+
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+**Step 2: Set Up Photographer Profile**
+
+Once the photographer shares their calendar, you can set up their profile:
+
+1. Go to **Configure Booking > Scheduling** and click on **"Setup new photographer."**
+2. Enter the photographer’s name or email in the **User Name or Email** field (only Admin, Staff, and Contractor users will appear).
+3. Choose the photographer's primary calendar from the dropdown. If their calendar isn’t listed, it means they haven’t shared it yet—refer to Step 1.
+4.  If needed, link additional calendars to track availability.\
+
+
+    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+If you don't see the '**Setup new Photographer**' button, please reach out to Customer Support via your private Slack channel.
+{% endhint %}
+
+**Step 3: Finalizing Setup**
+
+Once you’ve completed the setup:
+
+1. Toggle the **Enabled** option on.
+2.  Click **Save Changes**.\
+
+
+    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

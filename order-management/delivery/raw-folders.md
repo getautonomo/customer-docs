@@ -10,7 +10,7 @@ By default, we will create a folder within your Root Dropbox Folder called "Raw 
 If you enter an alternative Dropbox link for raw files, it **must** be on the same Dropbox account that is connected above.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 Once enabled, all future orders that have their folders created will generated raw folders according to this structure
 

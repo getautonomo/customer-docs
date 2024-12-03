@@ -187,7 +187,7 @@ Under **Configure Booking** and then **Services** again, there is a Service Type
 
 You may see a red box highlighting a Service or Package, indicating some kind of alert.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This is notifying you that your Service or Package is misconfigured in some crucial way. Note: this will not alert you to ALL fields that are missing information, only those that may break booking in some way.\
 \

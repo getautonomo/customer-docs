@@ -55,8 +55,8 @@
 ## Scheduling
 
 * [Calendar Integration](scheduling/calendar-integration.md)
-* [New Calendar Integration](scheduling/calendar-integration-1.md)
-* [How to Set Up the Calendar Integration](scheduling/how-to-set-up-the-calendar-integration.md)
+* [How to Set Up the Calendar Integration](scheduling/calendar-integration-1.md)
+* [How to Set Up the Calendar Integration (Draft)](scheduling/how-to-set-up-the-calendar-integration-draft.md)
 * [Scheduling Configuration](scheduling/scheduling-configuration/README.md)
   * [Integrated Booking](scheduling/scheduling-configuration/integrated-booking.md)
   * [Photographer Availability](scheduling/scheduling-configuration/photographer-availability.md)
