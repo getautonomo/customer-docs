@@ -54,7 +54,7 @@ Select an event you want to trigger. In our case, I want to add a user to a spec
 
 The final step is telling Mailchimp what I want to happen with the new contact information. I can add it to a specific Audience, change tags, add them to a group, etc.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 ### Send Post-Order Follow up Emails
 

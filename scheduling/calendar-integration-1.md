@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # New Calendar Integration
 
 ## Connecting a Primary Account

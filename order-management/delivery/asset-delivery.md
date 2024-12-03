@@ -10,7 +10,7 @@ Tonomo can help you save time and deliver your project files to your customers i
 * Automatically process your full size images and deliver different resolutions to your customers
 * Creates a beautiful photo and video gallery that agents can access through their customer portal.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ### Configure
 
