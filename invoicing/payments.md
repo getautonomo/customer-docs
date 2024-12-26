@@ -22,7 +22,7 @@ The amounts you enter into the fields to the right "Low tip", "Mid tip", and "Hi
 
 ## Referral Program
 
-See [this article](payments.md#referral-program) for more information on Referrals.
+See [this article](../users/referrals.md) for more information on Referrals.
 
 ## Stripe
 
@@ -59,32 +59,16 @@ Here are the steps on how to make a manual payment:
 2. Select an order
 3.  On the **Order Details**, click on **Sales**
 
-    <div align="left">
-
-    <figure><img src="../.gitbook/assets/image (179).png" alt="" width="363"><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="../.gitbook/assets/image (179).png" alt="" width="363"><figcaption></figcaption></figure></div>
 4.  Select **Payment details**\
 
 
-    <div align="left">
-
-    <figure><img src="../.gitbook/assets/image (183).png" alt="" width="357"><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="../.gitbook/assets/image (183).png" alt="" width="357"><figcaption></figcaption></figure></div>
 5.  Select **Make Payment** and select **Cash**
 
-    <div align="left">
+    <div align="left"><figure><img src="../.gitbook/assets/image (184).png" alt="" width="484"><figcaption></figcaption></figure></div>
 
-    <figure><img src="../.gitbook/assets/image (184).png" alt="" width="484"><figcaption></figcaption></figure>
-
-    </div>
-
-    <div align="left">
-
-    <figure><img src="../.gitbook/assets/image (186).png" alt="" width="488"><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="../.gitbook/assets/image (186).png" alt="" width="488"><figcaption></figcaption></figure></div>
 6. Complete the details and click **Save**
 
 {% hint style="info" %}
