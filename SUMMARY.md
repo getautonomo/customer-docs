@@ -108,7 +108,8 @@
 ## Integrations
 
 * [Tonomo Video Integration](integrations/tonomo-video-integration.md)
-* [Zapier](integrations/zapier.md)
+* [Zapier](integrations/zapier/README.md)
+  * [Slack Automation](integrations/zapier/slack-automation.md)
 * [Creating Orders Through Webhooks](integrations/creating-orders-through-webhooks.md)
 * [Slack](integrations/slack.md)
 
