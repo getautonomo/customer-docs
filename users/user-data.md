@@ -48,7 +48,7 @@ Choose an exclusive photographer for a particular customer. Upon the customer's 
 
 The Preferred Method of Contact is purely for your organization. It does not change how Tonomo-generated notifications (like order confirmation and project complete emails) are sent.
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 ### Available Booking Flows
 

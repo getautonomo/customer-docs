@@ -71,3 +71,7 @@ After syncing files with Tonomo, a new link appears in the deliverables section,
 {% embed url="https://www.loom.com/share/1f2a119c53a94dc692901550cae37bfc" %}
 
 To deliver marketing websites and materials to your customers. Simply enable these features in the "Website and Flyer Builder" section for each order. Once activated, access the "Delivery" page to explore the automatically generated Marketing Kit. Please refer to the [Single Property Website](single-property-websites/spw-walkthrough.md) documentation to learn more.
+
+{% hint style="warning" %}
+The general information for flyers will be based on the details specified in the "Property" tab of the order including the address, total interior area, acreage, and number of rooms and baths.
+{% endhint %}

@@ -103,9 +103,7 @@ Please make sure you are signed in to the correct Dropbox account before clickin
 
 <figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
-If you're on a **Mac** and using **Safari**, you might not be redirected to the Dropbox page after clicking **"Reconnect"** due to the pop-up blocker. If this happens, look for an icon in the website address bar (please see the screenshot below). Just click it to continue connecting your Dropbox account.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Pop-up icon</p></figcaption></figure>
 
 ## How do I import users to Tonomo?
 

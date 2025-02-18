@@ -22,7 +22,7 @@ The amounts you enter into the fields to the right "Low tip", "Mid tip", and "Hi
 
 ## Referral Program
 
-See [this article](payments.md#referral-program) for more information on Referrals.
+See [this article](../users/referrals.md) for more information on Referrals.
 
 ## Stripe
 

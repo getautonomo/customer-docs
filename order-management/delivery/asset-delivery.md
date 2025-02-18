@@ -10,7 +10,7 @@ Tonomo can help you save time and deliver your project files to your customers i
 * Automatically process your full size images and deliver different resolutions to your customers
 * Creates a beautiful photo and video gallery that agents can access through their customer portal.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ### Configure
 
@@ -72,7 +72,7 @@ To add a Vimeo or Youtube link, just copy the URL and click Create > More > Shor
 
 If you want to offer a Youtube/Vimeo link **and** full files for download, we will default to preview the Youtube/Vimeo link. To preview the full files, click Edit Links and delete the Youtube/Vimeo link.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 ### Creating Delivery Links
 
