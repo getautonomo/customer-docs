@@ -50,13 +50,10 @@
   * [Raw Folders](order-management/delivery/raw-folders.md)
   * [Matterport Delivery](order-management/delivery/matterport-delivery.md)
 * [Project Chat Checklists](order-management/project-chat-checklists.md)
-* [Set a Service as an Escalation](order-management/set-a-service-as-an-escalation.md)
 
 ## Scheduling
 
 * [Calendar Integration](scheduling/calendar-integration.md)
-* [How to Set Up the Calendar Integration](scheduling/calendar-integration-1.md)
-* [How to Set Up the Calendar Integration (Draft)](scheduling/how-to-set-up-the-calendar-integration-draft.md)
 * [Scheduling Configuration](scheduling/scheduling-configuration/README.md)
   * [Integrated Booking](scheduling/scheduling-configuration/integrated-booking.md)
   * [Photographer Availability](scheduling/scheduling-configuration/photographer-availability.md)
@@ -99,6 +96,7 @@
 ## Frequently Asked Questions
 
 * [FAQ](frequently-asked-questions/faq.md)
+* [Privacy Policy](frequently-asked-questions/privacy-policy.md)
 
 ## Single Property Websites
 
@@ -108,11 +106,6 @@
 ## Integrations
 
 * [Tonomo Video Integration](integrations/tonomo-video-integration.md)
-* [Zapier](integrations/zapier/README.md)
-  * [Slack Automation](integrations/zapier/slack-automation.md)
+* [Zapier](integrations/zapier.md)
 * [Creating Orders Through Webhooks](integrations/creating-orders-through-webhooks.md)
 * [Slack](integrations/slack.md)
-
-## Tonomo Privacy Policy
-
-* [Privacy Policy](tonomo-privacy-policy/privacy-policy.md)

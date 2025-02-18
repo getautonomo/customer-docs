@@ -25,4 +25,4 @@ Enter in just part of the subject line for the calendar event in question like t
 
 8\. Once you have search results with just the event in question, click **Export All**. This will generate a Google Sheets. Share this with your Tonomo support person at their email which they will provide.
 
-<img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">
