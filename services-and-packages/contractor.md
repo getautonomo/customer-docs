@@ -2,7 +2,7 @@
 
 ## Contractor Access
 
-As a third-party user, a contractor possesses the capability to view existing orders, engage in project chats, and make adjustments to order statuses and details. You have two options to configure the user's permission level.
+As a third-party user, a contractor can view existing orders, engage in project chats, and make changes to the orders. However, they cannot change the order status or payment status. You have two options to configure the user's permission level.
 
 1. Send an invitation directly to your team members' emails, specifying their permission level. This can be done under **Org Settings > Team**. They simply need to open the link provided in the email and follow this [documentation](../users/add-and-configure-your-users.md#adding-your-staff) for creating an account.
 2. The alternative approach involves your team member initiating the account creation process initially. Afterwards, you can modify their permission level to Contractor. Refer to this [documentation](../users/add-and-configure-your-users.md#adding-your-staff) for comprehensive instructions.
@@ -20,7 +20,7 @@ Under **Users Management > Users**, you can change your team permission level. A
 
 <figure><img src="../.gitbook/assets/contractor1.png" alt=""><figcaption></figcaption></figure>
 
-As mentioned above, contractors have the ability to review active orders, participate in project discussions, and modify order statuses and details. Tonomo provides a feature to restrict a contractor's access solely to the orders assigned to them. This ensures they cannot view orders not assigned to them and won't have visibility into any invoice or sales details. To activate this, head over to **Configure Booking > General** and toggle it on under the **Contractors** section.
+Tonomo provides a feature to restrict a contractor's access solely to the orders assigned to them. This ensures they cannot view orders not assigned to them and won't have visibility into any invoice or sales details. To activate this, head over to **Configure Booking > General** and toggle it on under the Contractors section.
 
 <figure><img src="../.gitbook/assets/contractor2.png" alt=""><figcaption></figcaption></figure>
 
