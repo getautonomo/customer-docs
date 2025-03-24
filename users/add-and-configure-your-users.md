@@ -70,6 +70,10 @@ Once done, the **Role** field will appear. Set their role in your company.
 In order to set a person to be a Project Manager for an Order, they must be a **Project Manager** here under **Role**.
 {% endhint %}
 
+You can also hide the reporting pages, pricing, and sales information from staff members by navigating to the **General** section under **Configure Booking.** This helps maintain confidentiality and restricts access to sensitive data.
+
+<div><figure><img src="../.gitbook/assets/Hide 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Hide 1.png" alt=""><figcaption></figcaption></figure></div>
+
 #### 4. Setup Calendar
 
 All Staff needs to have their [calendar connected](../scheduling/calendar-integration.md#connecting-user-accounts) to Tonomo so we can manage scheduling for them. Now that the employee is **Staff**, they have a new setting in _their_ User profile. Under the **Staff Settings** in the top right corner, click the **Connect Calendar Account** button.
