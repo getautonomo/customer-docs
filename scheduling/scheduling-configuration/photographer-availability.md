@@ -1,5 +1,7 @@
 # Photographer Availability
 
+{% embed url="https://www.loom.com/share/bd199168a44f4833a6ec11bec40be2f3?sid=9b976b86-80d0-4827-b5e7-584d93a5a124" %}
+
 ### Calendar Availability
 
 With [Integrated Booking](https://docs.getautonomo.com/scheduling/integrated-booking), one of the criteria the system will use to see if we can assign a booking to a photographer is if their calendar has any availability for the requested Services. If the photographer has an hour lunch at 12pm every day blocked out on their calendar and it's set to busy, we will respect that and not book anything during that time.
