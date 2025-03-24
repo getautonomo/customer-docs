@@ -78,6 +78,7 @@
 * [Embed Booking Flow](scheduling/embed-booking-flow.md)
 * [Photographer Schedule](scheduling/photographer-schedule.md)
 * [Calendar/Tonomo Mismatch](scheduling/calendar-tonomo-mismatch.md)
+* [Scheduling a Due Date](scheduling/scheduling-a-due-date.md)
 
 ## Reporting
 
