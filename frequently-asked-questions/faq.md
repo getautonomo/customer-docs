@@ -111,3 +111,10 @@ If you're on a **Mac** and using **Safari**, you might not be redirected to the 
 
 If you need help importing users, please reach out to Tonomo Support on Slack. Just make sure you have a CSV file ready with your list of users.
 
+
+
+## Will the text message be scheduled along with the completion email when I set the schedule?
+
+Yes! The text messages support the “Send Later” feature as well.
+
+<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
