@@ -52,6 +52,11 @@
 * [Project Chat Checklists](order-management/project-chat-checklists.md)
 * [Set a Service as an Escalation](order-management/set-a-service-as-an-escalation.md)
 
+## General Settings
+
+* [Localization Settings](general-settings/localization-settings.md)
+* [Domain Settings](general-settings/domain-settings.md)
+
 ## Scheduling
 
 * [Calendar Integration](scheduling/calendar-integration.md)
