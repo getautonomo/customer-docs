@@ -51,6 +51,7 @@
   * [Matterport Delivery](order-management/delivery/matterport-delivery.md)
 * [Project Chat Checklists](order-management/project-chat-checklists.md)
 * [Set a Service as an Escalation](order-management/set-a-service-as-an-escalation.md)
+* [Updating the Address After Booking](order-management/updating-the-address-after-booking.md)
 
 ## General Settings
 
