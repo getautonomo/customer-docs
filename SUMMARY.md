@@ -61,7 +61,7 @@
   * [Integrated Booking](scheduling/scheduling-configuration/integrated-booking.md)
   * [Photographer Availability](scheduling/scheduling-configuration/photographer-availability.md)
   * [Service Zones](scheduling/scheduling-configuration/service-zones.md)
-  * [Staff Skillsets](scheduling/scheduling-configuration/staff-skillsets.md)
+  * [Photographer Skillsets](scheduling/scheduling-configuration/staff-skillsets.md)
   * [Photographers Priority](scheduling/scheduling-configuration/photographers-priority.md)
   * [Prevent Last Minute Bookings](scheduling/scheduling-configuration/prevent-last-minute-bookings.md)
   * [Send two Photographers](scheduling/scheduling-configuration/send-2-photographers.md)
