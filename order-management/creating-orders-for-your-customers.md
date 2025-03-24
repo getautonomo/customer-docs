@@ -134,19 +134,34 @@ All of these will not be options for orders created through the Manual Method. D
 
 ### Reserved Time Slot
 
-There is one additional option which is to reserve a slot for a customer's order when you know the time and date they want, but not the property details.
+The Reserved Time Slot feature allows you to secure a specific date and time for a customer's order, even if you don't yet have the property details. Here's how to use it:
 
-1\) From the scheduler, click **+ Create** in the top left corner and then **+ Create Reserved Timeslot** in the popup.
+1.  **Create a Reserved Time Slot**
 
-<figure><img src="../.gitbook/assets/book-14.png" alt=""><figcaption></figcaption></figure>
+    * In the scheduler, click **+ Create** in the top left corner.
+    * In the popup menu, select **+ Create Reserved Time Slot**.
 
-2\) On the calendar, select the date, time, and photographer you want to assign to this future order.
+    <figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+2.  **Assign the Time Slot**
 
-3\) Edit any details, perhaps including a note on why this order was reserved.
+    * On the calendar, choose the **desired date, time, and photographer** for the future order.
+    * You can **add or edit details**, such as notes explaining why the time slot was reserved.
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+3.  **Convert the Reservation to an Order**
 
-4\) At a later time when you're ready to convert this to an order, you can click on the event and then **Go To Booking,** which will send you to the booking flow and have that timeslot automatically selected as the appointment time on the scheduling page.
+    * When ready to proceed, click on the reserved event and select **Go to Booking**. This will take you to the booking flow with the reserved time slot automatically set as the appointment time on the scheduling page.
+
+    <figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+
+    * **Change Booking Flow**: If needed, you can switch the booking flow at this step to redirect to a different flow when you click **Go to Booking**.
+4.  **Optional: Convert to a Blank Order**
+
+    * You can also convert the reserved time slot into a blank order.
+
+    <figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+
+    * **Note**: Once converted to a blank order, the option to go to the booking page will no longer be available. You'll need to manually enter the order details
 
 {% hint style="info" %}
 After clicking Go To Booking, you can send the URL that opens to the Agent and they can complete the booking themselves.
