@@ -10,11 +10,7 @@ Here are the steps to enable this feature:
 2. Click **Edit** on the **Booking Flow** you want to set up the Smart Scheduling.
 3. Enable Integrated Booking
 4. Set the value for the following:
-   * _**Photographer maximum travel time**_ - Set your maximum travel time and make yourself unavailable beyond those times.
-   * _**Nearby days amount**_ - This will tell the system to look for an event on that timeframe.
    * _**Nearby distance limit**_ - Set your preferred radius and the system will consider your current photo shoot distance when scheduling the next client.
    * _**Nearby travel time**_ - Travel time will differ depending on the location. Adding travel time will prevent you from exceeding the preferred travel time.
 
-<figure><img src="../.gitbook/assets/smart-scheduling2.png" alt=""><figcaption><p><em><strong>Booking Flow Settings</strong></em></p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/recommended-timeslots.png" alt=""><figcaption><p><em><strong>Sample of Recommended time slots</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
