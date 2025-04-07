@@ -24,6 +24,10 @@ Upon selecting "**Sync Delivery Files**" in the **Orders Management** interface,
 
 <figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Once the photos are displayed, you will have an option for each photo to hide it or set it as the cover photo for the listing website. Additionally, you can rearrange the photos by dragging them into your preferred position.
+{% endhint %}
+
 ### Virtual Tour
 
 Create a photo slideshow that you can enable as a cover on the Listing website. You have an option to pull photos from Photo Gallery or upload new photos to add to the Slideshow.
@@ -40,7 +44,10 @@ Upon selecting "**Sync Delivery Files**" in the **Orders Management** interface,
 
 <figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
-
+{% hint style="info" %}
+**Note:**\
+If the user/admin has already set up the video settings on this tab, resyncing the delivery files in the orders management interface will reset the video settings back to default.
+{% endhint %}
 
 ### 3D Tours
 
@@ -66,6 +73,10 @@ This section provides users with the capability to upload documents for sharing 
 
 The property websites are fully customizable, offering a seamless way to add value to the exceptional service you already deliver. These changes will automatically apply to future websites created for that customer.
 
+{% hint style="info" %}
+When changing the website theme, make sure the "Listing Agents" tab is filled with the agent involved. This ensures that the theme settings are automatically saved for that agent.
+{% endhint %}
+
 ### Domains
 
 In this section, you will be able to see all the lists of available domains that you have purchased through us. You can assign any of these domains to the property.
@@ -73,6 +84,10 @@ In this section, you will be able to see all the lists of available domains that
 Within the "Admin panel" section, a dedicated "**Add custom domain**" button has been provided. By clicking this button, users can effortlessly add any desired domain for a listing, which is typically $14.99 per year. While we offer a suggestion based on the listing's address, you have the flexibility to modify this recommendation.
 
 <figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Note: When purchasing a custom domain, double-check all details for accuracy. Once registered, it cannot be changed or refunded.
+{% endhint %}
 
 Alternatively, any domain purchased outside of tonomo can still be added as long as the DNS settings for the custom domain are set to the indicated record below.
 
@@ -83,6 +98,10 @@ Alternatively, any domain purchased outside of tonomo can still be added as long
 Manage your agent by adding or removing it in this section. This will also allow you to change the details of the agent, including the profile photo, team logo, full name, and more.
 
 <figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If the customer profile is updated or their details are changed, this section won’t update automatically. To refresh the listing agent’s details, you’ll need to remove and re-add the agent.&#x20;
+{% endhint %}
 
 ### Widgets
 
