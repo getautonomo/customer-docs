@@ -26,13 +26,23 @@ This will take you to a new window with quite a few options. Let's break that do
 
 ### General Information
 
-This first section should look familiar Services. You need to select a thumbnail, title, description, and price. On the right is a visual representation of your listing when you enter the below information.
+This first section should look familiar to Services. You need to select a thumbnail, name, description, and price. On the second photo below is a visual representation of your listing when you enter the below information.
 
-![](<../.gitbook/assets/Packages Layout.png>)
+<figure><img src="../.gitbook/assets/luuxry package.png" alt=""><figcaption><p>Package Setting</p></figcaption></figure>
 
-The size of the Package thumbnails are 600x230. Our recommended resolution is 1280x540.
+<figure><img src="../.gitbook/assets/package preview.png" alt=""><figcaption><p>Package Preview</p></figcaption></figure>
+
+The size of the Package thumbnails is 600x230. Our recommended resolution is 1280x540.
 
 The **Price** field is a "default" price all Agents will see if you aren't using [Dynamic Pricing](displaying-your-pricing.md#dynamic-pricing). If you are using Dynamic Pricing, the price displayed to the customer will be different than what you enter here because we'll customize the price depending on the size of the project.
+
+Enable the **Send Two Photographers** feature to assign two photographers per package when needed. This is especially useful for long or complex shoots that might be too much for one photographer. You can customize which shoots require two photographers and which don’t.
+
+Choose the **package type** that best fits your needs. Selecting the right package type ensures accurate pricing and a smoother booking process:
+
+* **Property** – Ideal for real estate listings, this works with **sq ft pricing** using **Dynamic Pricing**.
+* **Land Lot** – Instead of square feet, this option **automatically uses acres** as the unit of measurement.
+* **Branding** – Designed for branding shoots, this option doesn’t require a unit of measurement since pricing is based on the [**Branding Booking flow**](booking-flows.md#general-settings).
 
 For the **Description**, we recommend only one short sentence. It should be just enough to differentiate it from other Services without turning your booking process into a wall of text.
 
