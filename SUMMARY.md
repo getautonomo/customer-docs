@@ -34,6 +34,10 @@
 * [Sales](invoicing/sales.md)
 * [Payments](invoicing/payments.md)
 
+***
+
+* [Coupons](coupons.md)
+
 ## Order Management
 
 * [Order Management Overview](order-management/order-management-overview.md)
