@@ -65,8 +65,6 @@ Your **primary** booking flow, will always just be portal.yourcompany.com/book
 _Only qualified photographer will appear._
 {% endhint %}
 
-
-
 <figure><img src="../.gitbook/assets/booking-flow-settings-3.png" alt=""><figcaption></figcaption></figure>
 
 **Photographer maximum travel time** set the maximum travel time allowed for photographers between shoots.
@@ -89,13 +87,15 @@ Make sure to click **+ Update Settings** at the bottom before continuing.
 
 ### Payment Settings
 
-<figure><img src="../.gitbook/assets/payment-settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/watermark.png" alt=""><figcaption></figcaption></figure>
 
 If you are using Integrated Payments, you have some control over how customers pay.
 
 Enable **Lock files until order is paid** to force customers to pay before they get their assets. You can bypass this on a per-order basis by setting the payment status manually to Paid.
 
 Enable **Hide preview section until order is paid,** this feature could be implemented to encourage customers to complete the payment process before being able to view a detailed preview of their order.
+
+Add **Watermark Text** to automatically display on all orders in the delivery page. This watermark will stay visible until the order is marked as paid.
 
 Enable **Sales tax** and set the rate and we will add a line item to the order summary with sales tax and include that in their total.
 
