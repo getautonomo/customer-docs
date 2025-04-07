@@ -93,6 +93,8 @@ For more details, please see this: [https://knowledge.hubspot.com/automatically-
 You can also view the documentation when your calendar invite is being marked as spam.
 {% endhint %}
 
+
+
 ## How do I reconnect/change my Dropbox account?
 
 This can be easily done on the portal. Head over to **Configure Booking > General**, navigate through Dropbox, and click "Reconnect".
@@ -107,6 +109,8 @@ If you're on a **Mac** and using **Safari**, you might not be redirected to the 
 
 <figure><img src="../.gitbook/assets/faq-1.png" alt=""><figcaption><p>Pop-up icon</p></figcaption></figure>
 
+
+
 ## How do I import users to Tonomo?
 
 If you need help importing users, please reach out to Tonomo Support on Slack. Just make sure you have a CSV file ready with your list of users.
@@ -118,3 +122,19 @@ If you need help importing users, please reach out to Tonomo Support on Slack. J
 Yes! The text messages support the “Send Later” feature as well.
 
 <figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+
+
+
+## How to create a password for an agent account?
+
+Creating a password for your agent only works if they log in using a phone number. If they use an existing password or log in with an email, they will need to reset their password and create a new one.
+
+Here are the steps to create a password:
+
+1. Go to your login page.
+2. Enter the email and password.
+3. Click "Register with email."
+
+
+
+<figure><img src="../.gitbook/assets/login page.png" alt=""><figcaption></figcaption></figure>
