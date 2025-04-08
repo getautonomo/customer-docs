@@ -68,7 +68,11 @@ This functionality is available for any users within tonomo.
 
 Saved Payment Methods refer to cards stored by a user that can be shared with their brokerage or admin. This also enables all members of the brokerage to utilize these saved payment methods in conjunction with their individually saved cards for order payments.
 
-<figure><img src="../.gitbook/assets/user-management13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/billing.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+All saved cards are stored on your connected payment platform, such as Stripe or Square. If you need to remove any of the saved cards, you can simply delete them directly from Stripe or Square, and they will automatically be removed from Tonomo as well.
+{% endhint %}
 
 ### Client Preferences
 
