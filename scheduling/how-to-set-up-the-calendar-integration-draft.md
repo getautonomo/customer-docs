@@ -73,7 +73,7 @@ Each photographer needs to share their Google calendar(s) with the primary calen
 For instructions on sharing calendars and understanding permission levels, refer to the [Google Calendar documentation](https://support.google.com/calendar/answer/37082?hl=en\&authuser=2#zippy=%2Cunderstand-permission-settings-for-shared-calendars).\
 
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Set Up Photographer Profile**
 

@@ -43,3 +43,9 @@ On the right side of the screen are more project details. We see **Service Detai
 <figure><img src="../.gitbook/assets/orders-management5.png" alt=""><figcaption></figcaption></figure>
 
 Under **Service Details** are the **Order Notes** and **Checklists**. These can be edited and changed by any Staff or Admins and checked off as work is completed. If you want these fields to be pre-configured, see our guide on [Notifications](https://docs.getautonomo.com/order-management/notifications) and [Checklists](https://docs.getautonomo.com/order-management/task-configuration)
+
+## Unscheduled Orders
+
+**Tonomo** includes a feature that automatically stores all **unscheduled orders**. This refers to any order that does **not have an assigned schedule**, regardless of its current status: **canceled, postponed, in progress, or pending**. As long as an order has no schedule, it will automatically appear in the **Unscheduled Orders** section. &#x20;
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
