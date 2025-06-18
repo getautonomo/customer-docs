@@ -76,30 +76,4 @@ You can also hide the reporting pages, pricing, and sales information from staff
 
 #### 4. Setup Calendar
 
-All Staff needs to have their [calendar connected](../scheduling/calendar-integration.md#connecting-user-accounts) to Tonomo so we can manage scheduling for them. Now that the employee is **Staff**, they have a new setting in _their_ User profile. Under the **Staff Settings** in the top right corner, click the **Connect Calendar Account** button.
-
-<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-The following steps will be for connecting a Google calendar, but any other calendar provider should be similar. If you're having any trouble, please let us know!
-{% endhint %}
-
-Sign in with the Google email address that is registered to your Tonomo account.
-
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
-
-You may get a warning about an unverified app. Click **Show Advanced** and then **Go to nylas.com (unsafe)**.
-
-![](<../.gitbook/assets/11 Connect Account.png>)
-
-Click **Continue**
-
-<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
-
-Ensure that you are giving Nylas access by checking the _"See, edit, share, and permanently delete all the calendars you can access using Google Calendar."_ box and click **Allow** again.
-
-<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Repeat these steps for each User. In the future, we'll have an option for adding Users as a batch, so stay tuned!
-{% endhint %}
+All staff need to have their calendar connected to Tonomo so we can manage scheduling for them. For more information, please see this: [Connecting Photographer Accounts](../scheduling/calendar-integration-1.md#connecting-photographer-accounts)
