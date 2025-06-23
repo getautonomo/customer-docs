@@ -111,6 +111,10 @@
 
 * [FAQ](frequently-asked-questions/faq.md)
 
+***
+
+* [Privacy Policy](privacy-policy.md)
+
 ## Single Property Websites
 
 * [SPW Walkthrough](single-property-websites/spw-walkthrough.md)
