@@ -18,7 +18,7 @@ To create a Booking Flow, navigate to **Configure Booking**  > **Booking Flows**
 
 Once created, click **Edit** and you will have some new options.
 
-<figure><img src="../.gitbook/assets/booking-flow-settings-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/booking-flow1.png" alt=""><figcaption></figcaption></figure>
 
 **Thumbnail** serves as the cover photo visible on your landing page. You can choose any image to represent your booking forms.
 
@@ -41,11 +41,9 @@ Your **primary** booking flow, will always just be portal.yourcompany.com/book
 * Property - this type is commonly used for properties because it asks the address and sq ft of the property at the beginning.
 * Branding - this type is for branding, where you do not need to know the property address or sq ft but it will ask for an office location where the photoshoot will take place.
 
-**Set days available for booking** per booking flow as you may not offer weekend shoots or any specific day in a specific market, for example.
+**Set days available for booking** **and fees for specific days** per booking flow and apply fees for specific days as needed. You can enable or disable certain days to prevent bookings. For example, if you don’t offer weekend shoots or want to block off specific weekdays in a particular booking flow. If you do allow bookings on those days, you also have the option to charge an additional fee.
 
-
-
-<figure><img src="../.gitbook/assets/booking-flow-settings-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/booking-flow2.png" alt=""><figcaption></figcaption></figure>
 
 **Disable Confirmation Email** email can be disabled per booking flow so it won't be sent out to your clients.
 
@@ -57,6 +55,12 @@ Your **primary** booking flow, will always just be portal.yourcompany.com/book
 
 **Hide Client preferences** per booking flow.
 
+**Hide Saving amount** will hide the savings amount displayed on the top left corner of each package, which shows customers how much they’re saving.
+
+**Hide service prices in packages** will hide the individual prices of each service included in the package. Customers will only see the total package price, which helps simplify pricing and keep the focus on the overall value.
+
+**Don't invite customer to calendar event** this option skips sending the calendar invitation to the customer. It’s useful if you prefer to notify them through other channels.
+
 **Use Integrated Booking** per booking flow. For more information about Integrated Booking, see [this article](https://docs.getautonomo.com/scheduling/integrated-booking).
 
 **Allow customers to select photographers** by default this is toggled off and all the shoots will be properly distributed among the photographers. When toggled on, the customers will have a choice to choose a photographer they refer to.
@@ -65,11 +69,9 @@ Your **primary** booking flow, will always just be portal.yourcompany.com/book
 _Only qualified photographer will appear._
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/booking-flow-settings-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/booking-flow3.png" alt=""><figcaption></figcaption></figure>
 
 **Photographer maximum travel time** set the maximum travel time allowed for photographers between shoots.
-
-**Nearby days amount** indicates the duration the system should consider when reviewing your schedule for booking your next shoot.
 
 **Nearby distance limit** enables the system to consider your current photo shoot distance when scheduling the next client. This functionality not only streamlines the scheduling process but also eliminates travel fees, especially when you're closer to your next shoot.
 
@@ -178,6 +180,18 @@ You may set the Agent Branding information to optional, change the prompt, and t
 You may set a note or description below the Terms of Service link to emphasize a point or describe their responsibilities.
 
 ![](<../.gitbook/assets/ToS Notes.png>)
+
+### Order Status Page
+
+#### Date & time explainer message
+
+You can leave a message for the agent here. For example, if your portal isn’t using [integrated booking](../scheduling/scheduling-configuration/integrated-booking.md), you can add a reminder that the selected schedule may change based on photographer availability. You can also use this message to mention additional conditions—like a weekend fee if the booking falls on a Saturday or Sunday. This helps set expectations and reduces the need for follow-up clarification.
+
+#### Order Status Page Notes
+
+This is a note that will appear on the order status page once an agent completes a booking. You can use it to provide helpful information, next steps, or any reminders specific to that booking flow.
+
+<figure><img src="../.gitbook/assets/order-status.png" alt=""><figcaption></figcaption></figure>
 
 ### Travel Fees
 
@@ -317,9 +331,9 @@ Similar to Services, simply click and drag the Packages you want to include in t
 
 You may add Custom Questions to the Scheduling portion of the Booking Flow (step 2).
 
-![](<../.gitbook/assets/Custom Questions.png>)
+<figure><img src="../.gitbook/assets/custom-question.png" alt=""><figcaption></figcaption></figure>
 
-You may set the Title, what type of field it uses, and whether or not it is required. The difference between "Text" and "Textarea" is just that "Textarea" is a larger box than Text as shown in the image above.
+You can set the title or label, choose the field type, and specify whether it’s required. The difference between **“Text”** and **“Textarea”** is simply the size **“Textarea”** provides a larger input box, as shown in the image above. Custom questions can also be linked to specific services, so they will only appear when the associated service is selected.
 
 ## Add-Ons Priority
 

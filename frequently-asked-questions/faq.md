@@ -52,7 +52,7 @@ Example: In the photo below, the add-on service is **2D Layout**. Dragging this 
 
 Agents who have successfully booked an order will promptly receive a detailed email containing their order status. This email provides them with convenient options to either reschedule or cancel their order. Additionally, the email includes comprehensive information encompassing booked services and packages, property details, and the associated invoice, ensuring a comprehensive overview of their transaction.
 
-<figure><img src="../.gitbook/assets/order-status.png" alt=""><figcaption><p>Order Status Preview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/order-status (1).png" alt=""><figcaption><p>Order Status Preview</p></figcaption></figure>
 
 To activate this functionality, please see this [documentation](../scheduling/scheduling-configuration/allow-customers-to-reschedule-and-cancel-on-their-own.md).
 
