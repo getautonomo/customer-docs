@@ -60,6 +60,7 @@
 ## General Settings
 
 * [Localization Settings](general-settings/localization-settings.md)
+* [Customization](general-settings/customization.md)
 * [Domain Settings](general-settings/domain-settings.md)
 
 ## Scheduling
