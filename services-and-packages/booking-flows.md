@@ -4,7 +4,9 @@ Once your **Services** and **Packages** are added to the Tonomo system, you must
 
 Modify the cover photo for your booking flow, which will be displayed on your landing page. You can customize the visibility settings, choosing to keep the booking flow private for specific individuals or brokerages, or make it public for general use. Additionally, you have the flexibility to enable or disable any booking flow as needed.
 
-<figure><img src="../.gitbook/assets/booking-flow15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 ## Create a Booking Flow
 
@@ -42,6 +44,8 @@ Your **primary** booking flow, will always just be portal.yourcompany.com/book
 * Branding - this type is for branding, where you do not need to know the property address or sq ft but it will ask for an office location where the photoshoot will take place.
 
 **Set days available for booking** **and fees for specific days** per booking flow and apply fees for specific days as needed. You can enable or disable certain days to prevent bookings. For example, if you don’t offer weekend shoots or want to block off specific weekdays in a particular booking flow. If you do allow bookings on those days, you also have the option to charge an additional fee.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcQGwyvjCJsM5zPN6Jr0BWPqlaqrVQlXeKj73Zl1Meho-Lvu0wqvDSQzQL35K4e3LEgqxV42kGsOkukeYaJA4qVIpZVFgp6CZ1ee6hZzfWarHOkzBJGs8UbvZOsfITbR0VEo5HcPQ?key=tXQS-Z5TrpejQ4ToUi6H2Q" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/booking-flow2.png" alt=""><figcaption></figcaption></figure>
 
@@ -334,6 +338,11 @@ You may add Custom Questions to the Scheduling portion of the Booking Flow (step
 <figure><img src="../.gitbook/assets/custom-question.png" alt=""><figcaption></figcaption></figure>
 
 You can set the title or label, choose the field type, and specify whether it’s required. The difference between **“Text”** and **“Textarea”** is simply the size **“Textarea”** provides a larger input box, as shown in the image above. Custom questions can also be linked to specific services, so they will only appear when the associated service is selected.
+
+You can also set **Custom questions based on selected services** allowing you to link a custom question on your booking flow to specific services. To do this simply edit the booking flow of your choice and in the custom questions section add your question and enable the "Service Based Question" toggle. Then add the services that should be linked to this question. Now that you have configured this correctly this question should only show up when the selected services are on the order.\
+
+
+<figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
 ## Add-Ons Priority
 

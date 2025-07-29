@@ -33,6 +33,10 @@
 
 * [Sales](invoicing/sales.md)
 * [Payments](invoicing/payments.md)
+* [Xero](invoicing/xero/README.md)
+  * [Xero Account Setup](invoicing/xero/xero-account-setup.md)
+  * [Batch Invoicing for Xero](invoicing/xero/batch-invoicing-for-xero.md)
+  * [Syncing Orders to Xero From Order Managment](invoicing/xero/syncing-orders-to-xero-from-order-managment.md)
 
 ***
 
@@ -41,6 +45,7 @@
 ## Order Management
 
 * [Order Management Overview](order-management/order-management-overview.md)
+* [Customize Order Management View](order-management/customize-order-management-view.md)
 * [Edit Columns](order-management/edit-columns.md)
 * [Orders Management Filter](order-management/orders-management-filter.md)
 * [Booking Orders](order-management/creating-orders-for-your-customers.md)
@@ -77,14 +82,18 @@
   * [Prevent Last Minute Bookings](scheduling/scheduling-configuration/prevent-last-minute-bookings.md)
   * [Send two Photographers](scheduling/scheduling-configuration/send-2-photographers.md)
   * [Allow Customers to Reschedule and Cancel on their Own](scheduling/scheduling-configuration/allow-customers-to-reschedule-and-cancel-on-their-own.md)
+  * [Client-Facing Arrival Window](scheduling/scheduling-configuration/client-facing-arrival-window.md)
 * [Smart Scheduling](scheduling/smart-scheduling.md)
 * [Changing Scheduling Details](scheduling/changing-scheduling-details/README.md)
   * [Reschedule an Existing Appointment](scheduling/changing-scheduling-details/reschedule-an-existing-appointment.md)
+  * [Separating/Creating New Appointments by Services in Scheduler](scheduling/changing-scheduling-details/separating-creating-new-appointments-by-services-in-scheduler.md)
   * [Change Photographers after Booking](scheduling/changing-scheduling-details/change-photographers-after-booking.md)
   * [Add Additional Customers to Calendar Event](scheduling/changing-scheduling-details/add-additional-customers-to-calendar-event.md)
+  * [Accessing and Editing Order Details in the Scheduler](scheduling/changing-scheduling-details/accessing-and-editing-order-details-in-the-scheduler.md)
   * [Add New Appointment to Existing Appointment](scheduling/changing-scheduling-details/add-new-appointment-to-existing-appointment.md)
   * [Change Calendar Description After Booking](scheduling/changing-scheduling-details/change-calendar-description-after-booking.md)
   * [Create Calendar Event After Postponing or Cancelling](scheduling/changing-scheduling-details/create-calendar-event-after-postponing-or-cancelling.md)
+  * [Rearrange Photographer Order in Scheduler.](scheduling/changing-scheduling-details/rearrange-photographer-order-in-scheduler..md)
 * [Twilight Shoots](scheduling/twilight-shoots.md)
 * [Embed Booking Flow](scheduling/embed-booking-flow.md)
 * [Photographer Schedule](scheduling/photographer-schedule.md)
@@ -107,6 +116,8 @@
 * [SMS/Text Message Template](agent-communication/sms-text-message-template.md)
 * [Configuring Email DNS Records](agent-communication/dns-records.md)
 * [Managing Booking Confirmation Emails](agent-communication/managing-booking-confirmation-emails.md)
+* [Text Reminders for Photographers](agent-communication/text-reminders-for-photographers.md)
+* [Follow Up Emails for Agents](agent-communication/follow-up-emails-for-agents.md)
 
 ## Frequently Asked Questions
 

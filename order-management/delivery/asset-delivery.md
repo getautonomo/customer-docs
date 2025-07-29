@@ -90,6 +90,20 @@ If you're ready to deliver the order, scroll up on the right-hand bar and move t
 
 ![](<../../.gitbook/assets/Deliverables Link (1).png>)
 
+## How to sync multiple delivery files in bulk
+
+Sync multiple ready-to-deliver orders at once instead of processing them individually.
+
+Steps to Bulk Sync Delivery Files
+
+1. Navigate to the Orders section in your dashboard.
+2. Check the box next to each order you want to sync.
+3. As you select orders, a "Sync Delivery Files" button will appear at the bottom of the screen.
+4. Click "Sync Delivery Files" to process all selected orders at once
+5. Wait for confirmation that the sync is complete.
+
+<figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+
 ## Preview Assets
 
 If you are using our Integrated Payments feature, and your customers must pay before downloading their assets, then Tonomo allows them to **preview** their assets before paying. We block the ability for them to download the assets until the order is flagged as **Paid**.

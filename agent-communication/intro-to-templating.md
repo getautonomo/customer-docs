@@ -51,3 +51,37 @@ If your template has too many empty lines, you can reduce these by condensing va
 By condensing the arguments a bit, the space is reduced to a more natural length:
 
 ![](<../.gitbook/assets/Variables After.png>)
+
+
+
+## Enhanced Client Confirmation Emails with Time Slot - Specific Details
+
+How to Set Up Enhanced Client Confirmation Emails with Time Slot-Specific Details
+
+We’ve upgraded the client confirmation email system to include time slot-specific service and provider details.  You can include what services will be completed on what date and by which provider, giving clients a clearer picture of their scheduled appointments.  You can set this up by editing your confirmation email template under Configure Booking > General, or by reaching out to our support team for assistance.
+
+How to Edit Your Email Template:
+
+1. Go to Configure Booking > General in your account settings.
+2. Locate and select the Confirmation Email Template.
+3. Customize the template to include the following dynamic fields (if not already present):
+4.  {Service\_Date} – The date of the scheduled service
+
+    {Service\_Name} – The name of the booked service
+
+    {Provider\_Name} – The assigned provider for the service
+5.  Save your changes.
+
+    \
+
+
+    \
+
+
+    \
+
+
+    \
+
+
+\

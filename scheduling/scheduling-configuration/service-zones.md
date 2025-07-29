@@ -48,4 +48,4 @@ To see a photographer's Service Area, check or uncheck the boxes on the left and
 
 A custom message for out-of-area bookings appears when an agent tries to book a shoot outside your defined Service Areas. To edit this message, go to **Configure Booking > Scheduling > Service Areas** and update the **“Custom Message for Out-of-Area Bookings”** field. You can include any message you like, including contact details or instructions for handling requests outside your coverage. If no custom message is set, a default template will be used.
 
-<figure><img src="../../.gitbook/assets/service-area5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcfyTgp3xTKGG_lskl2Oz-qLxF9as2e86uZYbTXyeQlH3rnx5-4QJ-nK7AxmuiQV4wOgYWplkubFf3F-uOE3yXYDzg5vXl9k0affhJdnXF4w8som1em92pa9sXdeB3hujD6MNa8?key=tXQS-Z5TrpejQ4ToUi6H2Q" alt=""><figcaption></figcaption></figure>
