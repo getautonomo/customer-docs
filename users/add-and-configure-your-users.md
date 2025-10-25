@@ -76,4 +76,4 @@ You can also hide the reporting pages, pricing, and sales information from staff
 
 #### 4. Setup Calendar
 
-All staff need to have their calendar connected to Tonomo so we can manage scheduling for them. For more information, please see this: [Connecting Photographer Accounts](../scheduling/calendar-integration-1.md#connecting-photographer-accounts)
+All staff need to have their calendar connected to Tonomo so we can manage scheduling for them. For more information, please see this: [Connecting Photographer Accounts](../scheduling/calendar-integration.md#connecting-photographer-accounts)
